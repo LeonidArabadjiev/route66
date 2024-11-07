@@ -398,4 +398,6 @@ footer i:hover {
   .cards .card:last-child {
     width: 80%;
   }
+  .card h2{
+    font-size: 20px;
 }
